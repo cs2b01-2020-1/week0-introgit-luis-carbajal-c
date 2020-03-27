@@ -1,3 +1,3 @@
 name = input()
 print("Hello ", name)
-print("Welcome CS2B01")
+print("Welcome to CS2B01")
